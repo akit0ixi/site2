@@ -369,7 +369,7 @@ header{
     padding-top: 50px;
     /* display: flex; */
     flex-wrap: wrap;
-    background-image: url(../image/imgback1.png);
+    background-image: url(image/imgback1.png);
     background-size: cover;
   }
   
