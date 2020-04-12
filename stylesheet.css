@@ -103,7 +103,7 @@ header{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../image/imgback1.png);
+  background-image: url(image/imgback1.png);
   background-size: cover;
 }
 
